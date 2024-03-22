@@ -1,4 +1,4 @@
-# Laravel Backblaze B2
+# Fork for Laravel Backblaze B2
 
 [![Author](http://img.shields.io/badge/author-@marc_andre-blue.svg?style=flat-square)](https://twitter.com/marc_andre)
 [![Latest Version on Packagist](https://img.shields.io/packagist/v/marcandreappel/laravel-backblaze-b2.svg?style=flat-square)](https://packagist.org/packages/gliterd/laravel-backblaze-b2)
